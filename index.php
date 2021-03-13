@@ -6,6 +6,6 @@
     <title>index</title>
 </head>
 <body>
-    
+  <h1>PAGINA PRINCIPAL</h1>  
 </body>
 </html>
